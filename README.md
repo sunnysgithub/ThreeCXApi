@@ -50,8 +50,8 @@ Feel free to submit pull requests or open issues to improve the library.
 If you encounter any issues or have questions, feel free to open an issue.
 
 ## 📚 Resources
-- [3CX Configuration API ](https://www.3cx.com/docs/configuration-api/)
-- [3CX Configuration API Endpoint Specification](https://www.3cx.com/docs/configuration-api-endpoints/)
+- [3CX Configuration API ](https://www.3cx.com/docs/configuration-rest-api/)
+- [3CX Configuration API Endpoint Specification](https://www.3cx.com/docs/configuration-rest-api-endpoints/)
 - [3CX Call Control API ](https://www.3cx.com/docs/call-control-api/)
 - [3CX Call Control API Endpoint Specification](https://www.3cx.com/docs/call-control-api-endpoints/)
 
