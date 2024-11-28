@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{8C2FC55D-E3C2-4988-A8B7-64909B6C917D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeCXApi", "Sources\ThreeCXApi\ThreeCXApi.csproj", "{24250ACB-07D2-4DAF-86B8-752448EAF29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24250ACB-07D2-4DAF-86B8-752448EAF29A} = {8C2FC55D-E3C2-4988-A8B7-64909B6C917D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24250ACB-07D2-4DAF-86B8-752448EAF29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24250ACB-07D2-4DAF-86B8-752448EAF29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24250ACB-07D2-4DAF-86B8-752448EAF29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24250ACB-07D2-4DAF-86B8-752448EAF29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
